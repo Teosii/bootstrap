@@ -1,0 +1,40 @@
+.navbar-brand{
+    margin-left: 50px;
+    color: white!important;
+}
+.navbar-toggler{
+    color: white!important;
+    margin-right: 100px;
+}
+
+
+
+.title-first{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 200px;
+    align-items: center;
+    font-size: 30px;
+}
+.paragraph-first{
+    height: 100px;
+    margin-bottom: 100px;
+    margin-left: 420px;
+    font-size: 20px;
+    color: gray;
+}
+
+
+ .card{
+     width: 350px;
+     height: 400px;
+     margin-top: 50px;
+     margin-left: 50px;
+ }
+ 
+ .float-right{
+     margin-left: 1200px;
+    margin-top: 20px; 
+ }
+ 
